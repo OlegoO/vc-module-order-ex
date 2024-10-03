@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.nuke
+/artifacts
+/src/VirtoCommerce.OrdersModule2.Web/bin/Debug/net8.0
+/src/VirtoCommerce.OrdersModule2.Web/dist
+/src/VirtoCommerce.OrdersModule2.Web/node_modules
+/src/VirtoCommerce.OrdersModule2.Web/obj
+/src/VirtoCommerce.OrdersModule2.Web/Properties
